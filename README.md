@@ -1,6 +1,6 @@
 # HelloUiPath!
 
-This project is a sample 'Hello World' project for UiPath that includes a 'buildAndDeploy' workflow for GitHub Actions.
+This project is a sample 'Hello World' project for UiPath that includes a 'buildAndDeploy' workflow for GitHub Actions..
 
 ## UiPath Project
 
